@@ -19,9 +19,9 @@
 
 在 Minecraft 基础上，发展建筑，计算机，软件，电路，建模等方面的知识水平，充分利用同学们的兴趣，形成具有南大特色的 mc 社区文化，进一步提升学校影响力。
 
-## 📋 [工作一览](https://www.nmo.net.cn/)
+## 📋 [工作一览](https://github.com/orgs/nju-mc-org/projects/4)
 
-协会议题、活动安排与项目进度，统一在[看板](https://www.nmo.net.cn/)中跟进。欢迎在网站上获取最新公告。
+协会议题、活动安排与项目进度，统一在[看板](https://github.com/orgs/nju-mc-org/projects/4)中跟进。欢迎在网站上获取最新公告。
 
 ## 💻 开放代码仓
 
